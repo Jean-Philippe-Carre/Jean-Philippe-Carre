@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Karl Carre and I'm a passionate Full Stack Developer, from Mauritius. Python is my weapon of choice for back-end dev and i love crafting beautiful & aesthetic front-ends as well, driven by my photography background.</p>
+<p align="left">My name is Karl Carre and I'm a passionate Full Stack Developer, from Mauritius. Python is my weapon of choice for back-end dev & Data Analysis, and i love crafting beautiful & aesthetic front-ends as well, driven by my photography background.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Machine Learning & Generative AI<br>🎯 Goals: Become an expert in providing industry-wide solutions with Machine Learning & Generative AI technologies</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Machine Learning & Generative AI<br>🎯 Goals: Become an expert in providing industry-wide solutions for Business Intelligence with Machine Learning & Generative AI technologies</p>
 
 ###
 
